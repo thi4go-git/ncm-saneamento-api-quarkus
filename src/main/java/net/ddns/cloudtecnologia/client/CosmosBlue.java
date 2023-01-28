@@ -47,7 +47,6 @@ public class CosmosBlue {
         } catch (IOException e) {
             throw new ErroConexaoCosmosException();
         }
-
     }
 
 
