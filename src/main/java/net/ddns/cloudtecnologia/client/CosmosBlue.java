@@ -28,7 +28,6 @@ public class CosmosBlue {
 
     public BlueSoftDTO resposta(String code) {
 
-
         String URL = "https://cosmos.bluesoft.com.br/produtos/" + code;
 
         try {

@@ -14,7 +14,6 @@ public class BlueSoftServiceImpl implements BlueSoftService {
 
     @Override
     public BlueSoftDTO findProdutoByCode(String code) {
-        System.out.println("Serviço");
         return clienteBlueSoft.resposta(code);
     }
 
