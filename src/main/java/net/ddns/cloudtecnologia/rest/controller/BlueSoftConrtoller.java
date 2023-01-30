@@ -2,7 +2,6 @@ package net.ddns.cloudtecnologia.rest.controller;
 
 import net.ddns.cloudtecnologia.rest.dto.BlueSoftDTO;
 import net.ddns.cloudtecnologia.service.impl.BlueSoftServiceImpl;
-import org.jboss.logging.annotations.Param;
 
 import javax.inject.Inject;
 import javax.ws.rs.*;
